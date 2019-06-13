@@ -1,2 +1,3 @@
 # 3D_Files
-Repository of STL files to reproduce broken car parts
+Objets 3D au format STL permettant de réparer des pièces endommagées:
+1. Le plateau du levier de vitesse d'une Peugeot 305
